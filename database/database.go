@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/tiketdatasofianhadiant0/bdd-demo/models"
+	"github.com/sofianhadi1983/fiber-cucumber-demo/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

@@ -14,10 +14,10 @@ import (
 	"github.com/cucumber/godog"
 	"github.com/docker/go-connections/nat"
 	"github.com/gofiber/fiber/v2"
+	"github.com/sofianhadi1983/fiber-cucumber-demo/database"
+	"github.com/sofianhadi1983/fiber-cucumber-demo/models"
+	"github.com/sofianhadi1983/fiber-cucumber-demo/routes"
 	"github.com/testcontainers/testcontainers-go/wait"
-	"github.com/tiketdatasofianhadiant0/bdd-demo/database"
-	"github.com/tiketdatasofianhadiant0/bdd-demo/models"
-	"github.com/tiketdatasofianhadiant0/bdd-demo/routes"
 )
 
 type godogsResponseCtxKey struct{}

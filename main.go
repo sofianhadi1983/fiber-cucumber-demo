@@ -5,8 +5,8 @@ import (
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"
-	"github.com/tiketdatasofianhadiant0/bdd-demo/database"
-	"github.com/tiketdatasofianhadiant0/bdd-demo/routes"
+	"github.com/sofianhadi1983/fiber-cucumber-demo/database"
+	"github.com/sofianhadi1983/fiber-cucumber-demo/routes"
 )
 
 func main() {

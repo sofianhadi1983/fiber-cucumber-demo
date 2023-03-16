@@ -5,8 +5,8 @@ import (
 	"strconv"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/tiketdatasofianhadiant0/bdd-demo/database"
-	"github.com/tiketdatasofianhadiant0/bdd-demo/models"
+	"github.com/sofianhadi1983/fiber-cucumber-demo/database"
+	"github.com/sofianhadi1983/fiber-cucumber-demo/models"
 )
 
 func SetupRoutes(app *fiber.App) {

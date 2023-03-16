@@ -1,4 +1,4 @@
-module github.com/tiketdatasofianhadiant0/bdd-demo
+module github.com/sofianhadi1983/fiber-cucumber-demo
 
 go 1.18
 
@@ -6,8 +6,6 @@ require (
 	github.com/cucumber/godog v0.12.6
 	github.com/docker/go-connections v0.4.0
 	github.com/gofiber/fiber/v2 v2.42.0
-	github.com/lib/pq v1.10.7
-	github.com/stretchr/testify v1.8.2
 	github.com/testcontainers/testcontainers-go v0.19.0
 	gorm.io/driver/postgres v1.4.8
 	gorm.io/gorm v1.24.6
@@ -22,7 +20,6 @@ require (
 	github.com/cpuguy83/dockercfg v0.3.1 // indirect
 	github.com/cucumber/gherkin-go/v19 v19.0.3 // indirect
 	github.com/cucumber/messages-go/v16 v16.0.1 // indirect
-	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/docker/distribution v2.8.1+incompatible // indirect
 	github.com/docker/docker v23.0.1+incompatible // indirect
 	github.com/docker/go-units v0.5.0 // indirect
@@ -52,7 +49,6 @@ require (
 	github.com/opencontainers/runc v1.1.3 // indirect
 	github.com/philhofer/fwd v1.1.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
 	github.com/savsgio/dictpool v0.0.0-20221023140959-7bf2e61cea94 // indirect
 	github.com/savsgio/gotils v0.0.0-20220530130905-52f3993e8d6d // indirect
@@ -69,5 +65,4 @@ require (
 	google.golang.org/genproto v0.0.0-20220617124728-180714bec0ad // indirect
 	google.golang.org/grpc v1.47.0 // indirect
 	google.golang.org/protobuf v1.28.0 // indirect
-	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
